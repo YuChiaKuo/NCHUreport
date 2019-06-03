@@ -11,5 +11,6 @@
 ### 第二篇使用方法：One-Class Classifier Generative Adversarial Network
 
 
-## 3. 碩一下 <巨量資料分析> 作業與報告
-### 
+## 3. 碩一下 <巨量資料分析> 報告 （pyspark）
+### 期中報告1：Bike Sharing Demand
+
